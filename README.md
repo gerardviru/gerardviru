@@ -1,6 +1,6 @@
-### Hola! Mi nombre es Gerard! :wave:
+### Bienvenido! :wave:
 
-Me presento como Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma :computer:
+Mi nombre es Gerard y me presento como Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma :computer:
 
 Actualmente me encuentro cursando un BootCamp Full Stack en Java y Angular :books:
 
