@@ -1,4 +1,4 @@
-### Hola, soy Gerard :wave:
+### Hola! Mi nombre es Gerard! :wave:
 
 Me presento como Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma :computer:
 
